@@ -1,0 +1,24 @@
+{
+    "user": {
+        "create": {
+            "name": "create",
+            "status": false,
+            "isAvailable": true
+        },
+        "delete": {
+            "name": "delete",
+            "status": false,
+            "isAvailable": true
+        },
+        "read": {
+            "name": "read",
+            "status": false,
+            "isAvailable": true
+        },
+        "update": {
+            "name": "update",
+            "status": false,
+            "isAvailable": true
+        }
+    }
+}
